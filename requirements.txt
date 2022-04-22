@@ -17,4 +17,4 @@ natsort==7.0.1
 tqdm==4.48.2
 neurodsp==2.1.0
 seaborn==0.11.0
-git+git@github.com:NeurodataWithoutBorders/nwb-jupyter-widgets.git@brunton_brains
+git+https://github.com:NeurodataWithoutBorders/nwb-jupyter-widgets.git@brunton_brains
